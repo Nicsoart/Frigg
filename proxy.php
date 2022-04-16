@@ -1,8 +1,8 @@
 <?php
 $url = $_GET["url"];
-if (!preg_match("~^https?://~i", $url)) {
-$url = "http://" . $url;
-}
+//if (!preg_match("~^https?://~i", $url)) {
+//$url = "http://" . $url;
+//}
  
 $request_headers = array();
 foreach (getallheaders() as $header => $value) {
