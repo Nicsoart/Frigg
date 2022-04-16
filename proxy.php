@@ -31,4 +31,4 @@ header("Access-Control-Allow-Origin: *");
 // you can replace the "*" above with "http://your-webgl-domain" to prevent unauthorized use of your proxy
 // in which case you should also append "Origin: http://your-webgl-domain" header to the request
  
-
+echo $response_body;
