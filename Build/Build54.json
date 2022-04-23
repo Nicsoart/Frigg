@@ -1,0 +1,16 @@
+{
+"companyName": "Nicso",
+"productName": "Frigg",
+"productVersion": "0.2",
+"dataUrl": "Build54.data.unityweb",
+"wasmCodeUrl": "Build54.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build54.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
